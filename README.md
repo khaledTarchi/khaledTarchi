@@ -1,146 +1,100 @@
-<!-- ==========================================================
-   GITHUB PROFILE README — KHALED TARCHI
-   Minimal Scientific Intelligence Interface
-   ----------------------------------------------------------
-   HOW TO USE:
-   1) Replace YOUR_USERNAME everywhere.
-   2) Place your animation GIF at: assets/header.gif
-   3) Replace project repo links.
-   4) Replace social links.
-   ========================================================== -->
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGwMDghkuwDSQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727474979096?e=1747267200&v=beta&t=a6x1qVSyy-uNOFqbMyunmHN06h5hXPs_nPmGOFcWUj0)
 
-<!-- =======================
-     CINEMATIC HEADER
-======================= -->
+## Nitin Madas **` Data Science and AI Enthusiast`**
+<!-- <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="transform: rotate(180deg);"> -->
 
-<p align="center">
-  <img src="assets/header.gif" width="100%" alt="AI system initialization animation" />
-</p>
+- 👨‍🏭 I’m currently pursuing **[Msc Statistics and Data Science](https://mathematics.nmims.edu/academics/programs/msc/statistics/) From NMIMS University** <br>
+- 🔭 I’m currently working on [Portfolio Website](https://nitinmadas.github.io/)
+- ⏳  Recently completed **IBM Data Science Specialization**
+- 🌱 I’m currently learning **Power BI**
+- 💬 Ask me about **Python , SQL**
+- 🥅 2024 Goals: **Learn ML, Deep Learning, Get internship, Build projects** <br>
 
-<!-- =======================
-     IDENTITY PANEL
-======================= -->
+<br>
 
-<h1 align="center">Khaled Tarchi</h1>
 
-<p align="center">
-Artificial Intelligence Researcher<br>
-Computer Vision • Medical Image Intelligence • Performance‑Aware Computing
-</p>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinmadas/)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/crazycoders)
+[![portfolio](https://img.shields.io/badge/my_portfolio-383838?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nitinmadas.github.io/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nitinmadas24)
+[![instagram](https://img.shields.io/badge/instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nitinmadas24)
+[![kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge)](https://kaggle.com/nitinmadas)
+[![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge)](https://auth.geeksforgeeks.org/user/nitinmadas/)
 
-<!-- =======================
-     RESEARCH FOCUS
-======================= -->
+<!-- https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge
+ https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge 
+<a href="https://kaggle.com/nitinmadas" target="_blank">[<img src="https://raw.githubusercontent.com/nitinmadas/nitinmadas/main/kaggle_badge.png"  width=100px height=28px alt="kaggle" />](https://kaggle.com/nitinmadas)<a>
+[<img src="https://raw.githubusercontent.com/nitinmadas/nitinmadas/main/gfg_badge.png" width=155px height=28px alt="geeksforgeeks"/>](https://auth.geeksforgeeks.org/user/nitinmadas/)
+-->
 
-## Research Focus
-
-• **Computer Vision Systems** — visual perception, classification pipelines, real‑world deployment
-
-• **Medical Image Intelligence** — MRI/CT analysis, enhancement, diagnostic modeling
-
-• **Performance‑Aware AI Computing** — optimized numerical processing, parallel execution, efficient inference
-
-<!-- =======================
-     FLAGSHIP SYSTEMS
-======================= -->
-
-## Flagship Systems
-
-### Brain MRI Tumor Classification
-
-**Problem** — reliable automated detection from limited medical datasets
-**Approach** — preprocessing pipeline + CNN‑based classification
-**Objective** — assistive diagnostic intelligence
-
-Repository → [https://github.com/YOUR_USERNAME/mri-tumor-classifier](https://github.com/YOUR_USERNAME/mri-tumor-classifier)
+<!--[![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2a9d47?style=for-the-badge)](https://auth.geeksforgeeks.org/user/nitinmadas/) -->
 
 ---
 
-### Medical Image Enhancement Pipeline
 
-**Problem** — low quality diagnostic imaging reduces interpretability
-**Approach** — contrast normalization + noise reduction + structural preservation
-**Objective** — improved visual clarity for clinical evaluation
 
-Repository → [https://github.com/YOUR_USERNAME/medical-image-enhancement](https://github.com/YOUR_USERNAME/medical-image-enhancement)
-
----
-
-### Field Data Visual Capture System
-
-**Problem** — structured collection of visual field observations
-**Approach** — camera capture + attribute binding + dataset organization
-**Objective** — rapid dataset construction for machine learning
-
-Repository → [https://github.com/YOUR_USERNAME/field-data-collector](https://github.com/YOUR_USERNAME/field-data-collector)
-
-<!-- =======================
-     TECHNICAL CAPABILITY
-======================= -->
-
-## Technical Capability
-
-### Computation
-
-Python • Vectorized Numerical Processing • Parallel Execution
-
-### Machine Learning
-
-Deep Learning • CNN Architectures • Model Evaluation • Data Pipelines
-
-### Scientific Computing
-
-NumPy • SciPy • Optimization • Numerical Analysis
-
-### Computer Vision
-
-OpenCV • Image Processing • Dataset Engineering
-
-### Systems & Development
-
-Git • Docker (basic) • SQL Databases • Web Interfaces
-
-<!-- =======================
-     ACTIVITY SIGNALS
-======================= -->
-
-## Activity
-
+### 🧰 Languages and Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+ 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<p align="left">
+
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,sklearn,git,flask,django" />
+  </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+ <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="MS Excel" title="MS Excel" width="40" height="40"/>
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" width="40" height="40"/>
+</a>
+ <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" width="40" height="40"/>
+ </a>
+ 
+ <!--<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40"/>
+ </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="Rlang" title="R Language" width="40" height="40"/>
+ </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" title="Postgresql" width="40" height="40"/>
+ </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSql" title="MYSql" width="40" height="40"/>
+ </a> 
+ 
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Pandas" title="Pandas" width="40" height="40"/>
+ </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" title="Django" width="40" height="40"/>
+ </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
+ </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" title="Flask" width="40" height="40"/>
+ </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" title="Scikit Learn" width="40" height="40"/>
+ </a>-->
 </p>
+ 
+ ### 
+<h3 align="left">📊 Stats <img align="center" src="https://komarev.com/ghpvc/?username=nitinmadas&label=Profile%20views&color=0e75b6&style=flat" alt="nitinmadas" /> </h3>
 
-<!-- =======================
-     CURRENT WORK
-======================= -->
 
-## Current Work
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinmadas&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="nitinmadas" height="195px" /> -->
 
-• Improving robustness of medical image classification models
-• Exploring efficient model inference strategies
-• Expanding structured visual datasets
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nitinmadas&show_icons=true&theme=gruvbox" height="200px" width="400px" alt="nitinmadas" />
+<img align="left" src="https://streak-stats.demolab.com/?user=nitinmadas&theme=gruvbox&border_radius=4.5" height="200px" width="400px" alt="nitinmadas" />
 
-<!-- =======================
-     CONTACT NETWORK
-======================= -->
 
-## Connect
 
-LinkedIn → [https://linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
-Facebook → [https://facebook.com/YOUR_PROFILE](https://facebook.com/YOUR_PROFILE)
-Instagram → [https://instagram.com/YOUR_PROFILE](https://instagram.com/YOUR_PROFILE)
-Kaggle → [https://kaggle.com/YOUR_PROFILE](https://kaggle.com/YOUR_PROFILE)
-Email → [your.email@domain.com](mailto:your.email@domain.com)
 
-<!-- =======================
-     END
-======================= -->
-
-<p align="center">
-Intelligent systems for real‑world impact.
-</p>
 

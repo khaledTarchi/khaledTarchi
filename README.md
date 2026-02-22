@@ -9,6 +9,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-383838?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![instagram](https://img.shields.io/badge/instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khaled_tr___/)
+[![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khaled.tr.94333)
 
 
 <!-- https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge

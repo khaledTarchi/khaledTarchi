@@ -1,25 +1,15 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGwMDghkuwDSQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727474979096?e=1747267200&v=beta&t=a6x1qVSyy-uNOFqbMyunmHN06h5hXPs_nPmGOFcWUj0)
 
-## Khaled Tarchi **` Data Science and AI Enthusiast`**
-<!-- <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="transform: rotate(180deg);"> -->
 
-- 👨‍🏭 I’m currently pursuing **[Msc Statistics and Data Science](https://mathematics.nmims.edu/academics/programs/msc/statistics/) From NMIMS University** <br>
-- 🔭 I’m currently working on [Portfolio Website](https://nitinmadas.github.io/)
-- ⏳  Recently completed **IBM Data Science Specialization**
-- 🌱 I’m currently learning **Power BI**
-- 💬 Ask me about **Python , SQL**
-- 🥅 2024 Goals: **Learn ML, Deep Learning, Get internship, Build projects** <br>
+## Khaled Tarchi **` Researcher and Engineer in AI`**
 
 <br>
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinmadas/)
-[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/crazycoders)
-[![portfolio](https://img.shields.io/badge/my_portfolio-383838?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nitinmadas.github.io/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nitinmadas24)
-[![instagram](https://img.shields.io/badge/instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nitinmadas24)
-[![kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge)](https://kaggle.com/nitinmadas)
-[![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge)](https://auth.geeksforgeeks.org/user/nitinmadas/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-tarchi-55b917250/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-383838?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![instagram](https://img.shields.io/badge/instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khaled_tr___/)
+
 
 <!-- https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge
  https://img.shields.io/badge/geeksforgeeks-2F8D46?style=for-the-badge 
@@ -85,14 +75,6 @@
  </a>-->
 </p>
  
- ### 
-<h3 align="left">📊 Stats <img align="center" src="https://komarev.com/ghpvc/?username=nitinmadas&label=Profile%20views&color=0e75b6&style=flat" alt="nitinmadas" /> </h3>
-
-
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinmadas&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="nitinmadas" height="195px" /> -->
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nitinmadas&show_icons=true&theme=gruvbox" height="200px" width="400px" alt="nitinmadas" />
-<img align="left" src="https://streak-stats.demolab.com/?user=nitinmadas&theme=gruvbox&border_radius=4.5" height="200px" width="400px" alt="nitinmadas" />
 
 
 

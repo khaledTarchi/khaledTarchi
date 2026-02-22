@@ -1,6 +1,6 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGwMDghkuwDSQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727474979096?e=1747267200&v=beta&t=a6x1qVSyy-uNOFqbMyunmHN06h5hXPs_nPmGOFcWUj0)
 
-## Nitin Madas **` Data Science and AI Enthusiast`**
+## Khaled Tarchi **` Data Science and AI Enthusiast`**
 <!-- <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="transform: rotate(180deg);"> -->
 
 - 👨‍🏭 I’m currently pursuing **[Msc Statistics and Data Science](https://mathematics.nmims.edu/academics/programs/msc/statistics/) From NMIMS University** <br>

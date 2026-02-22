@@ -73,7 +73,7 @@
  </a>
  
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
- <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/Keras.svg" alt="Keras" title="Keras" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" title="pytorch" width="40" height="40"/>
  </a>
 
  

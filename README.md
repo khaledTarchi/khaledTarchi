@@ -68,14 +68,6 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" title="Flask" width="40" height="40"/>
- </a>
- 
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" title="pytorch" width="40" height="40"/>
- </a>
-
  
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" title="Scikit Learn" width="40" height="40"/>

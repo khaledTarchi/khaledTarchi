@@ -6,7 +6,7 @@
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-tarchi-55b917250/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-383838?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-383838?style=for-the-badge&logo=ko-fi&logoColor=white)](https://khaledtarchi.github.io/KhaledTr.github.io/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![instagram](https://img.shields.io/badge/instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khaled_tr___/)
 [![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khaled.tr.94333)
